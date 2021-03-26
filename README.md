@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+# Calculadora en React.JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto académico con funcionalidad de calculadora básica, donde podrás realizar operaciones como: suma, resta, multiplicación, división, raiz cuadrada y porcentaje de cualquier número que ingreses en la interfaz principal.
 
-## Available Scripts
+## Para empezar
 
-In the project directory, you can run:
+Ejecuta los siguientes comandos en la consola CMD de tu equipo, asi podrás obtener una copia local del proyecto, en orden:
 
-### `npm start`
+$ git init
+$ git add .
+$ git commit -m 'Comentario'
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Visualizaras los siguiente :
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+> Cloning into `............`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
-### `npm test`
+### Pre-requisitos 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+Da un ejemplo
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Instalación 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-### `npm run eject`
+_Dí cómo será ese paso_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+Da un ejemplo
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+_Y repite_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+hasta finalizar
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Learn More
+### Analice las pruebas end-to-end 🔩
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_Explica que verifican estas pruebas y por qué_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+Da un ejemplo
+```
 
-### Code Splitting
+### Y las pruebas de estilo de codificación ⌨️
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+_Explica que verifican estas pruebas y por qué_
 
-### Analyzing the Bundle Size
+```
+Da un ejemplo
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Despliegue 📦
 
-### Making a Progressive Web App
+_Agrega notas adicionales sobre como hacer deploy_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Construido con 🛠️
 
-### Advanced Configuration
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
-### Deployment
+## Wiki 📖
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
-### `npm run build` fails to minify
+## Versionado 📌
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
