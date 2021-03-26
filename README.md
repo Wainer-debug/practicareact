@@ -6,18 +6,22 @@ Proyecto académico con funcionalidad de calculadora básica, donde podrás real
 
 Ejecuta los siguientes comandos en la consola CMD de tu equipo, asi podrás obtener una copia local del proyecto, en orden:
 
+```sh
 $ git init
 $ git add .
 $ git commit -m 'Comentario'
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+```
 
 Visualizaras los siguiente :
 
+```sh
 > Cloning into `............`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
+```
 
 ### Pre-requisitos 
 
